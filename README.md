@@ -1,4 +1,4 @@
-# Maze Solver
+# Maze Solver [1.0] Alpha
 
 A simple brute-forcing maze solving application I've made for fun. 
 
